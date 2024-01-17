@@ -1,0 +1,8 @@
+{
+    "azureFunctions.deploySubpath": "top_insights\\azure_functions\\py_json\\flatten",
+    "azureFunctions.scmDoBuildDuringDeployment": true,
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.projectLanguageModel": 2
+}
